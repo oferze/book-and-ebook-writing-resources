@@ -14,8 +14,10 @@ We welcome contributions! It's [easy](https://github.com/oferze/book-and-ebook-w
 - Read the [TODO](/TODO.md) file
 - [Send a PR](https://help.github.com/articles/using-pull-requests) (we prefer multiple small commits rather than one large change)
 
-**We prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing, thanks.**
+Please note:
 
+- We prefer **multiple small commits** rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing, thanks.
+- Some products and services cost money. Some require registration or other forms of engagement. We don't want, and can't, enlist every book / eBook writing resource or tool on planet Earth. The editorial decision whether to include a resource or not is ultimately mine, as someone _has_ to govern _any_ open repository.
 
 ### How to Share This Repository
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/oferze/book-and-ebook-writing-resources)
