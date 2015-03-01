@@ -26,3 +26,5 @@ Please note:
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/oferze/book-and-ebook-writing-resources&title=Free%20Programming%20Books&summary=&source=)
 
 **I give all the credit** to this intro and the collateral text files (Contributing, etc.) to [Victor Felder](https://github.com/vhf) and the [free-programming-books](https://github.com/vhf/free-programming-books/) repository, which I heavily based this repository on.
+
+## >>> [View the List](book-ebook-writing-resources-en.md)
