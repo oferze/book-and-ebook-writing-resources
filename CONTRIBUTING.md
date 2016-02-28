@@ -5,7 +5,7 @@ By contributing you agree to the [LICENSE](https://github.com/oferze/book-and-eb
 1. You don't have to know git: if you found something of interest which is *not already in this repo*, please open an issue with your links propositions.
     - If you know git, please fork the repo and send pull requests.
 
-2. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
+2. Make sure to follow the [guidelines below](#guidelines).
 
 ### Guidelines
 - If a resource is behind a registration page, please supply a direct link to the resource itself (be it a page, PDF file or anything else)
