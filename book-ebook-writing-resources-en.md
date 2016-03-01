@@ -1,3 +1,7 @@
+:free: - Free :moneybag: - Costs money :point_up: - Free with voluntary tipping
+
+:floppy_disk: - Software download :cloud: - Online service / SaaS
+
 # List of Book / eBook Writing Resources
 
 ## Writing
@@ -12,17 +16,17 @@
 
 ### Writing Tools
 
-[GitBook](https://www.gitbook.com)
+[GitBook](https://www.gitbook.com) :free: public books :moneybag: private books :cloud:
 
-[Penflip](https://www.penflip.com)
+[Penflip](https://www.penflip.com) :free: public books :moneybag: private books :cloud:
 
-[Scrivener](https://www.literatureandlatte.com/scrivener.php)
+[Scrivener](https://www.literatureandlatte.com/scrivener.php) :moneybag: :floppy_disk:
 
-[yWriter](http://www.spacejock.com/yWriter5.html)
+[yWriter](http://www.spacejock.com/yWriter5.html) :point_up: :floppy_disk:
 
-[BookWriter](http://www.fastpencil.com/company/book_writing_software)
+[BookWriter](http://www.fastpencil.com/company/book_writing_software) :moneybag: :cloud:
 
-[WriteItNow](http://www.ravensheadservices.com)
+[WriteItNow](http://www.ravensheadservices.com) :moneybag: :floppy_disk:
 
 ### Editing & Layouting
 
