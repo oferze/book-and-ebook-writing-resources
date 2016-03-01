@@ -4,11 +4,11 @@
 
 ### General Guides About Writing Techniques, Economics & Tips
 
-[eBooks The Smart Way](http://cdn.smartpassiveincome.com/download/ebooks-the-smart-way.pdf)
+[eBooks The Smart Way](http://cdn.smartpassiveincome.com/download/ebooks-the-smart-way.pdf) _by Pat Flynn_
 
-[The Economics of Writing a Book](http://priceonomics.com/can-authors-make-money-selling-books)
+[The Economics of Writing a Book](http://priceonomics.com/can-authors-make-money-selling-books) _by Carter Phipps_
 
-[Authority](http://nathanbarry.com/authority)
+[Authority](http://nathanbarry.com/authority) _by Nathan Berry_
 
 ### Writing Tools
 
