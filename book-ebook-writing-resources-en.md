@@ -16,7 +16,11 @@
 
 ### Writing Tools
 
+[Pandoc](http://pandoc.org/) :free: :floppy_disk:
+
 [GitBook](https://www.gitbook.com) :free: public books :moneybag: private books :cloud:
+
+[Sphinx](http://www.sphinx-doc.org/) :free: :floppy_disk:
 
 [Penflip](https://www.penflip.com) :free: public books :moneybag: private books :cloud:
 
