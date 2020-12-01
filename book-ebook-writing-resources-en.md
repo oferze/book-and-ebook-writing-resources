@@ -60,6 +60,8 @@
 
 [OneHourTranslation](https://www.onehourtranslation.com)
 
+[K&J Translations](https://kjtranslations.com/)
+
 ### Create a Cover / 3D Cover
 
 [GRAPHICNOVEL005](http://www.psdcovers.com/graphicnovel005)
