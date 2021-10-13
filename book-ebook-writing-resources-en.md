@@ -32,6 +32,8 @@
 
 [WriteItNow](http://www.ravensheadservices.com) :moneybag: :floppy_disk:
 
+[Manuskript](https://www.theologeek.ch/manuskript/) :free: :floppy_disk:
+
 ### Editing & Layouting
 
 [SmartEdit for Word](http://www.smart-edit.com)
